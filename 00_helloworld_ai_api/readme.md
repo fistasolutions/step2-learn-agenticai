@@ -1,74 +1,22 @@
-# Hello World AI API
+# Gemini API Tutorials
 
-In the context of interacting with Large Language Models (LLMs), the terms "prompting" and "completion" describe the two main stages of communication:
+## Table of contents
+Learn about the capabilities of the Gemini API by checking out these quickstarts. They walk you through how to use a feature of the Gemini API with complete end to end code.
+* [Asynchronous requests](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Asynchronous_requests.ipynb): Learn how to use Python's async/await API with the Gemini SDK to parallelize calls.
+* [Authentication](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Authentication.ipynb): Start here to learn how you can set up your API key so you can get access to the Gemini API.
+* [Counting Tokens](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Counting_Tokens.ipynb) Tokens are the basic inputs to the Gemini models. Through this notebook, you will gain a better understanding of tokens through an interactive experience.
+* [Gemini Flash Introduction](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Gemini_Flash_Introduction.ipynb): Get started with Gemini Flash 1.5.
+* [Models](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Models.ipynb): Learn about the different models and parameters available in the Gemini API.
+* [Working with files](https://github.com/google-gemini/cookbook/blob/main/quickstarts/File_API.ipynb): Use the Gemini API to upload files (audio, video, images, code, text) and perform actions with them through the Gemini models.
+* [Audio](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Audio.ipynb): Learn how to use the Gemini API with audio files.
+* [JSON mode](https://github.com/google-gemini/cookbook/blob/main/quickstarts/JSON_mode.ipynb): Discover how to use JSON mode.
+* [Function Calling](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Function_calling.ipynb): The Gemini API works great with code. Use this quickstart to learn how to write prompts to understand and call functions. Then check out the [function calling config](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Function_calling_config.ipynb) tutorial to learn more.
+* [PDF files](https://github.com/google-gemini/cookbook/blob/main/quickstarts/PDF_Files.ipynb). Learn how to work with PDF files, to and upload text and images.
+* [System Instructions](https://github.com/google-gemini/cookbook/blob/main/quickstarts/System_instructions.ipynb): Give models additional context on how to respond by setting system instructions.
+* [Safety](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Safety.ipynb): Configure safety settings in the Gemini API.
+* [Streaming](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Streaming.ipynb): Learn how to use streaming for single interactions, and for chat.
+* [Embeddings](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Embeddings.ipynb): Create high quality and task-specific embeddings.
+* [Tuning](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Tuning.ipynb): Learn how to improve model performance on a specific task through tuning.
+* [Video](https://github.com/google-gemini/cookbook/blob/main/quickstarts/Video.ipynb): Upload a video to the Gemini API and use it in your prompt.
 
-1. **Prompting**: This is the input phase where a user provides an instruction or query to the LLM. The prompt guides the model on the desired task, which could range from answering a question to generating text in a specific style. Effective prompting is crucial, as it directly influences the quality and relevance of the model's output. Crafting clear and specific prompts helps the LLM understand the user's intent and produce appropriate responses. 
-
-2. **Completion**: This is the output phase where the LLM generates a response based on the given prompt. The completion is the model's attempt to fulfill the user's request, whether by providing information, creating content, or performing a specified task. The quality of the completion depends on factors like the prompt's clarity and the model's training data. 
-
-Understanding these stages is essential for effective interaction with LLMs. By focusing on precise prompting, users can enhance the relevance and accuracy of the model's completions, leading to more productive and meaningful engagements. 
-
-## Calling LLM through a Web Interface or Making a API Call
-
-The concepts of "prompting" and "completion" apply both when interacting with a Large Language Model (LLM) through a web interface and when making API calls. Here's how these processes function in each context:
-
-**1. Web Interface Interaction:**
-
-- **Prompting:** When you use a web interface to interact with an LLM, you typically enter your input or query into a text box. This input serves as the prompt, guiding the model on the task you want it to perform.
-
-- **Completion:** After submitting your prompt, the LLM processes it and generates a response, which is then displayed on the web page. This response is the completion, fulfilling the request made by your prompt.
-
-**2. API Interaction:**
-
-- **Prompting:** When interacting with an LLM via an API, your application sends a request to the model's endpoint. This request includes the prompt, which is the input text or instruction you want the model to process.
-
-- **Completion:** The LLM processes the prompt and returns a response to your application. This response, known as the completion, contains the model's generated text based on the input prompt.
-
-In both scenarios, the prompt is the input that directs the LLM's behavior, and the completion is the output generated by the model in response to that input. The effectiveness of the completion depends on the clarity and specificity of the prompt, regardless of whether the interaction occurs through a web interface or an API call.
-
-Understanding this interaction is crucial for effectively utilizing LLMs across different platforms and applications. 
-
-## OpenAI ChatGPT API
-
-[Get API Key](https://platform.openai.com/docs/quickstart/create-and-export-an-api-key)
-
-[Colab Notebook](https://colab.research.google.com/github/tonykipkemboi/GPT-4o-mini-demo/blob/main/gpt_4o_mini_demo.ipynb)
-
-This file gpt_4o_mini_demo.ipynb is also included in this directory, you may open it in the colab directly from git.
-
-[OpenAI developer platform](https://platform.openai.com/docs/overview)
-
-[Making Requests](https://platform.openai.com/docs/api-reference/making-requests)
-
-[Pricing](https://openai.com/api/pricing/)
-
-
-## Google API Free for Developers
-
-We will use Google Colab to Call Google API:
-
-[Gemini 2.0 API](https://ai.google.dev/gemini-api/docs/models/gemini-v2)
-
-[Gemini API: Prompting Quickstart Colab](https://colab.research.google.com/github/google-gemini/cookbook/blob/main/quickstarts/Prompting.ipynb)
-
-This file Prompting.ipynb is also included in this directory, you may open it in the colab directly from git.
-
-[Google API Docs](https://ai.google.dev/gemini-api/docs)
-
-
-## aisuite
-
-aisuite makes it easy for developers to use large language models from multiple providers. When building applications devlopers found it a hassle to integrate with multiple providers. Aisuite lets you pick a "provider:model" just by changing one string, like openai:gpt-4o, anthropic:claude-3-5-sonnet-20241022, ollama:llama3.1:8b, etc. 
-
-pip install aisuite
-
-pip install 'aisuite[all]'
-
-[aisuite](https://github.com/andrewyng/aisuite)
-
-[Provider Guides](https://github.com/andrewyng/aisuite/tree/main/guides)
-
-[Examples](https://github.com/andrewyng/aisuite/tree/main/examples)
-
-### Gemini API Official Documentation Tutorial:
-https://ai.google.dev/gemini-api/docs/quickstart?lang=python
+When you're finished here, check out the [examples folder](https://github.com/google-gemini/cookbook/tree/main/examples) or the [Awesome Gemini page](../Awesome_gemini.md) for more fun examples.
