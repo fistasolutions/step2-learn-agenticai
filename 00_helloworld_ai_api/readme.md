@@ -69,3 +69,6 @@ pip install 'aisuite[all]'
 [Provider Guides](https://github.com/andrewyng/aisuite/tree/main/guides)
 
 [Examples](https://github.com/andrewyng/aisuite/tree/main/examples)
+
+### Gemini API Official Documentation Tutorial:
+https://ai.google.dev/gemini-api/docs/quickstart?lang=python
