@@ -34,23 +34,23 @@ Our program explores the unique blend of technical, ethical, interpersonal, and 
 
 ## Defining the Agentic AI Developer
 
-“Agency” in AI refers to the capacity of a system to make autonomous decisions, learn from experience, and interact dynamically with its environment. Unlike traditional developers who focus primarily on building static software solutions, agentic AI developers engineer adaptive systems that can observe, reason, and act without continuous human oversight. These professionals thus integrate deep technical knowledge with an understanding of real-world complexities, human-machine collaboration, and societal implications.
+“Agency” in AI refers to the capacity of a system to make autonomous decisions, learn from experience, and interact dynamically with its environment. Unlike traditional developers who focus primarily on building static software solutions, agentic AI developers engineer adaptive systems that can **observe**, **reason**, and act without continuous human oversight. These professionals thus integrate deep technical knowledge with an understanding of real-world complexities, human-machine collaboration, and societal implications.
 
 ### Core Technical Competencies
 
-A fundamental requirement for the agentic AI developer is robust technical expertise. This is not limited to coding skill; it also includes an in-depth understanding of computational frameworks, algorithms, and data structures. 
+A fundamental requirement for the agentic AI developer is **robust technical expertise**. This is not limited to coding skill; it also includes an in-depth understanding of **computational frameworks, algorithms, and data structures**. 
 
 ### Data Engineering and Pipeline Management:
-Robust AI systems rely on high-quality, well-curated data. The agentic AI developer should be proficient in data preprocessing, feature engineering, and pipeline automation. Understanding distributed computing frameworks, database systems, and data governance ensures that the intelligent agents are fed accurate and ethically sourced information.
+Robust AI systems rely on high-quality, well-curated data. The agentic AI developer should be proficient in **data preprocessing, feature engineering, and pipeline automation**. Understanding distributed computing frameworks, database systems, and data governance ensures that the intelligent agents are fed accurate and ethically sourced information.
 
 ### Scalable and Secure System Design:
-Agentic systems must scale to potentially millions of users or devices, requiring developers to be knowledgeable in cloud architectures, containerization, DevOps best practices, and cybersecurity measures. Without these competencies, even the most sophisticated AI models risk becoming vulnerable, inefficient, or unusable.
+Agentic systems must scale to potentially millions of users or devices, requiring developers to be knowledgeable in **cloud architectures, containerization, DevOps best practices, and cybersecurity measures**. Without these competencies, even the most sophisticated AI models risk becoming vulnerable, inefficient, or unusable.
 
 ### Multidisciplinary Knowledge and Domain Specialization
-Agentic AI developers cannot operate in isolation; they must appreciate the broader context within which their systems function. This calls for a T-shaped skill profile: deep expertise in AI methods with a broad understanding of related disciplines, such as:
+Agentic AI developers cannot operate in isolation; they must appreciate the broader context within which their systems function. This calls for a **T-shaped skill profile: deep expertise in AI methods with a broad understanding of related disciplines, such as:**
 
 ### Human-Computer Interaction (HCI):
-Developers need to consider usability, accessibility, and interpretability. This includes understanding user interface design, cognitive load, and the intricacies of how humans interact with intelligent systems. Agentic AI developers must create systems that communicate their reasoning, seek clarifications from users, and gracefully handle user feedback.
+Developers need to consider usability, accessibility, and interpretability. This includes understanding user **interface design, cognitive load, and the intricacies of how humans interact with intelligent systems.** Agentic AI developers must create systems that communicate their reasoning, seek clarifications from users, and gracefully handle user feedback.
 
 ### Domain Knowledge:
 To build agents that excel in a particular industry—be it healthcare, finance, agriculture, or manufacturing—developers must invest time in learning about the domain’s data, workflows, regulations, and unique challenges. This domain fluency enables them to tailor AI solutions that are truly context-aware and provide meaningful value.
@@ -62,22 +62,22 @@ Intelligent agents that work alongside humans must model human decision-making, 
 The move toward agentic AI expands responsibility beyond mere functionality. These developers must be custodians of ethical AI development, considering issues such as bias, fairness, accountability, and transparency.
 
 ### Fairness and Bias Mitigation:
-Agentic AI developers need a keen awareness of how biases creep into data and models, often perpetuating inequalities. They should incorporate fairness metrics, bias detection tools, and data augmentation techniques that reduce harmful stereotypes and ensure equitable outcomes.
+Agentic AI developers need a keen awareness of **how biases creep into data and models**, often perpetuating inequalities. They should incorporate fairness metrics, bias detection tools, and data augmentation techniques that reduce harmful stereotypes and ensure equitable outcomes.
 
 ### Privacy and Security:
-In a world of increasing data-driven decision-making, privacy must remain paramount. This involves employing differential privacy, federated learning, encryption, and other techniques that respect user data while still enabling model training and improvement.
+In a world of increasing data-driven decision-making, privacy must remain paramount. This involves employing differential privacy, **federated learning, encryption, and other techniques that respect user data while still enabling model training and improvement**.
 
 ### Explainability and Interpretability:
 As AI-driven decisions influence lives more directly, stakeholders—regulators, customers, and end-users—demand explanation. Agentic AI developers must create models with interpretable results, use tools like saliency maps, or leverage symbolic reasoning layers. This helps build trust and fosters accountability when things go wrong.
 
 ### Regulatory Compliance and Standards Adherence:
-AI regulation is evolving worldwide. Developers must stay abreast of standards such as the European Union’s AI Act or industry-specific guidelines. They need to build systems aligned with evolving ethical frameworks, legal constraints, and societal norms.
+AI regulation is evolving worldwide. Developers must stay abreast of standards such as the **European Union’s AI Act or industry-specific guidelines.** They need to build systems aligned with evolving ethical frameworks, legal constraints, and societal norms.
 
-### Creative Problem-Solving and Continuous Learning
-AI development is inherently exploratory. Agentic AI developers must be comfortable with open-ended challenges, rapid prototyping, and iterative refinement. They thrive in uncertainty and are unafraid to experiment:
+### Creative Problem-Solving and Continuous Learning:
+AI development is inherently exploratory. Agentic AI developers must be comfortable with **open-ended challenges, rapid prototyping, and iterative refinement. They thrive in uncertainty and are unafraid to experiment:**
 
 ### Curiosity and Adaptability:
-As new algorithms and architectures emerge, developers must maintain a growth mindset. Continuous learning—be it through academic research, hands-on experimentation, or professional training—ensures they remain at the cutting edge.
+As new algorithms and architectures emerge, **developers must maintain a growth mindset.** Continuous learning—be it through academic research, hands-on experimentation, or professional training—ensures they remain at the cutting edge.
 
 ### Systems Thinking:
 Rather than focusing on isolated components, agentic developers reason about entire systems. They consider feedback loops, emergent behaviors, and unintended side effects. This holistic view often reveals hidden opportunities and pitfalls.
@@ -85,13 +85,13 @@ Rather than focusing on isolated components, agentic developers reason about ent
 ### Design Thinking, Agile, and Lean Startup Methodologies:
 An **agentic AI developer** should integrate **design thinking**, **agile**, and **lean startup methodologies** to create AI agents that are user-centered, adaptive, and impactful:
 
-1. **Design Thinking**: Focus on empathizing with users to understand their needs, defining problems clearly, ideating innovative solutions, prototyping AI agents, and testing them iteratively. This ensures that the AI agents are intuitive and solve real-world problems effectively.
+1. **Design Thinking**: Focus on empathizing with users to understand their **needs**, **defining problems clearly, ideating innovative solutions, prototyping AI agents, and testing them iteratively.** This ensures that the AI agents are intuitive and solve real-world problems effectively.
 
-2. **Agile Methodology**: Develop AI agents in iterative cycles (sprints), delivering incremental improvements based on user feedback. This adaptability allows for quick adjustments to changing requirements or insights, ensuring the agents stay relevant and functional.
+2. **Agile Methodology**: Develop AI agents in **iterative cycles (sprints), delivering incremental improvements based on user feedback**. This adaptability allows for quick adjustments to changing requirements or insights, ensuring the agents stay relevant and functional.
 
-3. **Lean Startup**: Emphasize building a minimal viable product (MVP) for AI agents, validating hypotheses with real users, and pivoting based on data-driven learnings. This minimizes wasted resources and accelerates the development of impactful, scalable AI solutions.
+3. **Lean Startup**: Emphasize building a **minimal viable product (MVP) for AI agents**, validating hypotheses with real users, and pivoting based on data-driven learnings. This minimizes wasted resources and accelerates the development of impactful, scalable AI solutions.
 
-By combining these approaches, an agentic AI developer ensures that the AI agents are not only technically robust but also aligned with user needs, business goals, and dynamic market demands.
+By combining these approaches, an agentic AI developer ensures that the **AI agents are not only technically robust but also aligned with user needs, business goals, and dynamic market demands**.
 
 ### Interpersonal and Communication Skills
 Agentic AI developers seldom work alone. They must be effective collaborators and communicators, bridging the gap between technical complexity and stakeholder understanding:
@@ -106,7 +106,7 @@ Agentic AI developers often mentor junior team members and guide strategic AI in
 Explaining technical rationales, advocating for the adoption of safe and ethical AI practices, and securing buy-in from decision-makers are crucial. Communication is the key to ensuring that agentic AI systems receive the resources and support they require.
 
 ### Visionary Thinking and Responsibility
-Finally, an agentic AI developer must anticipate the future. They should understand global trends, foresee where AI is headed, and shape their solutions accordingly:
+Finally, an agentic AI developer must anticipate the future. **They should understand global trends, foresee where AI is headed, and shape their solutions accordingly:**
 
 1. Long-Term Impact Awareness:
 Designing agentic systems requires foresight. Developers who consider the long-term consequences of their designs—environmental impact, cultural shifts, labor market changes—contribute to sustainable AI ecosystems.
