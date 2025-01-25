@@ -73,7 +73,7 @@ The parallel processing capabilities of GPUs allow for the efficient training of
 
 **Enabling Agentic AI Systems:**
 
-Agentic AI refers to systems composed of specialized agents that operate independently, each handling specific tasks. These agents interact with data, systems, and people to complete multistep workflows, enabling more autonomous and dynamic AI applications.  The computational power provided by GPUs is essential for processing the complex operations and large datasets that agentic AI systems require, allowing them to function effectively and efficiently.
+Agentic AI refers to systems composed of specialized agents that operate independently, each handling specific tasks. These agents interact with data, systems, and people to **complete multistep workflows**, enabling more autonomous and dynamic AI applications.  The computational power provided by GPUs is essential for processing the complex operations and large datasets that agentic AI systems require, allowing them to function effectively and efficiently.
 
 **Facilitating Real-Time Processing:**
 
